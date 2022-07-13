@@ -12,7 +12,6 @@
     },
     "rules": {
         "no-console" : "off",
-        "linebreak-style":["error", "windows"],
-        "indent": ["off", 2]
+        "linebreak-style":["error", "windows"]
     }
 }
